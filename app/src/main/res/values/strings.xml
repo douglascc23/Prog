@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prog</string>
+    <string name="action_settings">Settings</string>
+    <string name="frango_description">You chose this pizza.</string>
+    <string name="calabressa_description">You chose this pizza.</string>
+    <string name="portuguesa_description">You chose this pizza.</string>
+    <string name="carne_description">You chose this pizza.</string>
+    <string name="camarao_description">You chose this pizza.</string>
+    <string name="marguerita_description">You chose this pizza.</string>
+
+    <string name="calabressa_order_message">Pizza de Calabressa.</string>
+    <string name="frango_order_message">Pizza de Frango.</string>
+    <string name="portuguesa_order_message">Pizza de Portuguesa.</string>
+    <string name="carne_order_message">Pizza de Carne de Sol.</string>
+    <string name="camarao_order_message">Pizza de Camarão.</string>
+    <string name="marguerita_order_message">Pizza de Marguerita.</string>
+
+    <string name="yes_order_message">Pedido Confirmado. Bom apetite!.</string>
+    <string name="cancelar_order_message">Cancelado.</string>
+    <string name="no_order_message">Cancelado pedido.</string>
+
+
+</resources>
